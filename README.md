@@ -35,7 +35,7 @@ Current setup includes:
 - 🔥 **OPNSense Firewall** with network segmentation and VLAN configuration
 - 📊 **Monitoring stack** with Checkmk and Zabbix
 - 🐳 **Containerized services** managed via Portainer
-- 🔐 **Self-hosted tools**: Bitwarden, Zimbra, documentation wiki
+- 🔐 **Self-hosted tools**: Dashy, Pi-Hole, Plex, Bitwarden, Nextcloud AIO, documentation wiki
 - 💾 **Storage management** with NFS and iSCSI
 - ⚙️ **Automation** via Ansible playbooks for provisioning and updates
 
