@@ -36,7 +36,7 @@ Current setup includes:
 - 📊 **Monitoring stack** with Checkmk and Zabbix
 - 🐳 **Containerized services** managed via Portainer
 - 🔐 **Self-hosted tools**: Dashy, Pi-Hole, Plex, Bitwarden, Nextcloud AIO, documentation wiki
-- 💾 **Storage management** with NFS and iSCSI
+- 💾 **Storage management** with NFS and Samba (OpenMediaVault)
 - ⚙️ **Automation** via Ansible playbooks for provisioning and updates
 
 ---
